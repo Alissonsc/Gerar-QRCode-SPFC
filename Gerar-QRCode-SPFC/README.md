@@ -23,7 +23,7 @@ Uma aplicação web temática para gerar códigos QR a partir de CPF's dos torce
 5.  O QR Code aparecerá abaixo do formulário.
  
 ## 🔗 Demonstração Online
-[Link para a Demonstração Online](https://gerar-qrcode-spfc.vercel.app/)
+[Link para a Demonstração Online](https://gerar-qr-code-spfc.vercel.app/)
  
 ## 🧑‍💻 Autor
 * **Alisson Silva** - [Meu GitHub](https://github.com/Alissonsc)
